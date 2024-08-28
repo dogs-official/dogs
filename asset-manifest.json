@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dogs/static/css/main.31d6cfe0.css",
+    "main.js": "/dogs/static/js/main.b4d7c93d.js",
+    "static/media/axios.cjs": "/dogs/static/media/axios.cd0a976556d6411f77a7.cjs",
+    "index.html": "/dogs/index.html",
+    "main.b4d7c93d.js.map": "/dogs/static/js/main.b4d7c93d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.b4d7c93d.js"
+  ]
+}
